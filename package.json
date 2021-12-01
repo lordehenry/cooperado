@@ -1,13 +1,11 @@
 {
-  "name": "cooperados_web_app",
-  "version": "0.0.1",
-  "description": "Node.js on Docker",
-  "author": "Vinícius Cruz <vinicius.silva@cooperconcordia.coop.br>",
-  "main": "server.js",
+  "name": "learquivos",
+  "version": "0.0.2",
+  "description": "teste de leitura de arquivos em nodejs",
+  "main": "index.js",
   "scripts": {
-    "start": "node server.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "dependencies": {
-    "express": "^4.16.1"
-  }
+  "author": "",
+  "license": "ISC"
 }

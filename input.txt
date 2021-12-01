@@ -1,0 +1,1 @@
+lendo este arquivo com nodejs
